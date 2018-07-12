@@ -1,4 +1,4 @@
-baseURL = "https://geeky.rocks/"
+baseURL = "http://geeky.rocks/"
 languageCode = "en-us"
 title = "geeky.rocks"
 theme = "sam"
