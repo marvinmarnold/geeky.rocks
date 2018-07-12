@@ -9,12 +9,18 @@ export default class GeekyIndexPage extends Component {
         description: "Share and explore",
         url: "/robofy.it"
       },
-      {
+			{
         _id: "2",
         name: "Integridad Ecosistema",
         description: "How about the environment?",
         url: "/ie"
       },
+			{
+				_id: "3",
+				name: "NO Surveillance",
+				description: "https://www.facebook.com/events/1937273746500366/",
+				url: "/no-surveillance"
+			},
     ];
   }
 
