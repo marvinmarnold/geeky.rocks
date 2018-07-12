@@ -3,22 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://www.geeky.rocks/contact/</loc>
+    <loc>http://geeky.rocks/contact/</loc>
     <lastmod>2018-07-12T22:36:14+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.geeky.rocks/categories/</loc>
+    <loc>http://geeky.rocks/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.geeky.rocks/tags/</loc>
+    <loc>http://geeky.rocks/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.geeky.rocks/</loc>
+    <loc>http://geeky.rocks/</loc>
     <lastmod>2018-07-12T22:36:14+00:00</lastmod>
     <priority>0</priority>
   </url>
