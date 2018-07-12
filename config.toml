@@ -1,4 +1,4 @@
-baseURL = "http://geeky.rocks/"
+baseURL = "http://www.geeky.rocks/"
 languageCode = "en-us"
 title = "geeky.rocks"
 theme = "sam"
