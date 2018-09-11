@@ -1,8 +1,0 @@
-baseURL = "http://geeky.rocks/"
-languageCode = "en-us"
-title = "geeky.rocks"
-theme = "sam"
-
-[[params.mainMenu]]
-    link = "/contact"
-    text = "contact"
