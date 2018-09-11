@@ -3,4 +3,5 @@ module.exports = {
     title: "Marvin's site",
   },
   plugins: ['gatsby-plugin-react-helmet'],
+  pathPrefix: `/geeky.rocks`
 }
